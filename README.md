@@ -1,2 +1,2 @@
 ## Linear-Programming
-My assignment on linear programming 
+My assignment on basics of linear programming 
